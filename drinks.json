@@ -1,0 +1,16 @@
+{
+  "choices":[
+    "beer",
+    "cider",
+    "lonkero",
+    "cola",
+    "still water",
+    "sparkling water",
+    "coffee",
+    "tea"
+  ],
+  "totals": {
+  },
+  "order": {
+  }
+}
