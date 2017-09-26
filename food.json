@@ -22,8 +22,15 @@
     "Chicken meze"
   ],
   "totals": {
+    "Goat Cheese salad" : 1
+    "Falafel, Feta & Eggplant": 1,
+    "Falafel, Pesto & Goat Cheese": 1
+    "Vegan Meze" : 1
   },
   "order": {
+    "henrik" : "Goat Cheese salad"
+    "vas": "Vegan Meze",
+    "sakari": "Falafel, Feta & Eggplant",
+    "joel": "Falafel, Pesto & Goat Cheese"
   }
 }
-  

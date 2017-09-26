@@ -10,7 +10,15 @@
     "tea"
   ],
   "totals": {
+    "beer" : 1
+    "sparkling water": 1,
+    "tea": 1,
+    "cider" : 1
   },
   "order": {
+    "henrik" : "beer"
+    "vas": "cider",
+    "sakari": "sparkling water",
+    "joel": "tea"
   }
 }
