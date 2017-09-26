@@ -22,8 +22,12 @@
     "Chicken meze"
   ],
   "totals": {
+    "Halloumi Salad": 2,
+    "Falafel, Feta & Eggplant": 1,
   },
   "order": {
     "smaisidoro": "Halloumi Salad",
+    "petra": "Halloumi Salad",
+    "Muhis": "Falafel, Feta & Eggplant"
   }
 }

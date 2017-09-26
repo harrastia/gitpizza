@@ -10,8 +10,11 @@
     "tea"
   ],
   "totals": {
+     "cider": 3,
   },
   "order": {
     "smaisidoro": "cider",
+    "petra": "cider",
+    "Muhis": "cider"
   }
 }
