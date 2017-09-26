@@ -10,7 +10,11 @@
     "tea"
   ],
   "totals": {
+    "sparkling water": 1,
+    "cider": 1
   },
   "order": {
+    "german": "sparkling water",
+    "holvi-anastasiia": "cider"
   }
 }
