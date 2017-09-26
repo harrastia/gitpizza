@@ -10,9 +10,10 @@
     "tea"
   ],
   "totals": {
-      "1"
+      "2"
   },
   "order": {
-      "beer"
+      "javi": "beer",
+      "Jharyis": "beer"
   }
 }
