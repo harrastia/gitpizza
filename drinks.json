@@ -10,9 +10,11 @@
     "tea"
   ],
   "totals": {
-    "beer": 1
+    "beer": 1,
+    "tea": 1
   },
   "order": {
-    "murielle": "beer"
+    "murielle": "beer",
+    "pavel": "tea"
   }
 }
