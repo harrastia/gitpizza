@@ -22,8 +22,11 @@
     "Chicken meze"
   ],
   "totals": {
+    "Falafel, Feta & Eggplant": 1,
+    "Falafel, Pesto & Goat Cheese": 1
   },
   "order": {
-    "sakari": "Falafel, Feta & Eggplant"
+    "sakari": "Falafel, Feta & Eggplant",
+    "joel": "Falafel, Pesto & Goat Cheese"
   }
 }

@@ -10,8 +10,11 @@
     "tea"
   ],
   "totals": {
+    "sparkling water": 1,
+    "tea": 1
   },
   "order": {
-    "sakari": "sparkling water"
+    "sakari": "sparkling water",
+    "joel": "tea"
   }
 }
