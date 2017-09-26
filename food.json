@@ -1,0 +1,29 @@
+{
+  "choice_info": "http://www.fafas.eu/menu/",
+  "choices":[
+    "Falafel & Hummus",
+    "Falafel, Hummus & Eggplant",
+    "Falafel & Cauliflower",
+    "Falafel & Halloumi",
+    "Falafel, Pesto & Goat Cheese",
+    "Falafel, Feta & Eggplant",
+    "Kabab & Hummus",
+    "Fafa's Kabab",
+    "Kabab, Feta & Fresh coriander",
+    "Chicken & Hummus",
+    "Fafa's Chicken",
+    "Chicken, Feta & Fresh Coriander",
+    "FAFA's Meze ",
+    "Vegan Meze",
+    "Halloumi Salad",
+    "Goat Cheese salad",
+    "Feta Salad",
+    "Kabab meze",
+    "Chicken meze"
+  ],
+  "totals": {
+  },
+  "order": {
+  }
+}
+  
