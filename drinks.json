@@ -12,9 +12,9 @@
   ],
   "totals": {
     "sparkling water": 2,
-    "cider": 2,
-    "beer": 3,
-    "tea": 1,
+    "cider": 5,
+    "beer": 6,
+    "tea": 2,
   },
   "order": {
     "german": "sparkling water",
@@ -24,6 +24,12 @@
     "henrik" : "beer",
     "vas": "cider",
     "sakari": "sparkling water",
-    "joel": "tea"
+    "joel": "tea",
+    "pavel": "tea",
+    "murielle": "beer",
+    "gediminas": "beer",
+    "carlos": "beer",
+    "smaisidoro": "cider",
+    "petra": "cider",
+    "Muhis": "cider"
   }
-}

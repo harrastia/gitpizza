@@ -22,28 +22,31 @@
     "Chicken meze"
   ],
   "totals": {
-<<<<<<< HEAD
-    "Kabab meze": 1,
-    "Chicken & Hummus": 1,
+    "Halloumi Salad": 3,
+    "Fafa's Chicken": 2,
+    "Goat Cheese salad" : 3,
+    "Falafel, Feta & Eggplant": 2,
+    "Falafel, Pesto & Goat Cheese": 2,
+    "Vegan Meze" : 1,
     "FAFA's Meze": 1,
-    "Falafel, Pesto & Goat Cheese": 1    
+    "Chicken & Hummus": 1,
+    "Kabab meze": 1,
   },
   "order": {
+    "henrik" : "Goat Cheese salad",
+    "vas": "Vegan Meze",
+    "sakari": "Falafel, Feta & Eggplant",
+    "joel": "Falafel, Pesto & Goat Cheese",
     "javi": "Kabab meze",
     "Jharyis": "Chicken & Hummus",
     "german": "FAFA's Meze",
-    "holvi-anastasiia": "Falafel, Pesto & Goat Cheese"
-=======
-    "Goat Cheese salad" : 1
-    "Falafel, Feta & Eggplant": 1,
-    "Falafel, Pesto & Goat Cheese": 1
-    "Vegan Meze" : 1
-  },
-  "order": {
-    "henrik" : "Goat Cheese salad"
-    "vas": "Vegan Meze",
-    "sakari": "Falafel, Feta & Eggplant",
-    "joel": "Falafel, Pesto & Goat Cheese"
->>>>>>> origin/merge-4-4
+    "holvi-anastasiia": "Falafel, Pesto & Goat Cheese",
+    "pavel": "Fafa's Chicken",
+    "murielle": "Goat Cheese salad",
+    "gediminas": "Fafa's Chicken",
+    "carlos": "Halloumi Salad",
+    "smaisidoro": "Halloumi Salad",
+    "petra": "Halloumi Salad",
+    "Muhis": "Falafel, Feta & Eggplant"
   }
 }
