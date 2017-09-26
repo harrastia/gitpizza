@@ -22,6 +22,7 @@
     "Chicken meze"
   ],
   "totals": {
+<<<<<<< HEAD
     "Kabab meze": 1,
     "Chicken & Hummus": 1,
     "FAFA's Meze": 1,
@@ -32,6 +33,17 @@
     "Jharyis": "Chicken & Hummus",
     "german": "FAFA's Meze",
     "holvi-anastasiia": "Falafel, Pesto & Goat Cheese"
+=======
+    "Goat Cheese salad" : 1
+    "Falafel, Feta & Eggplant": 1,
+    "Falafel, Pesto & Goat Cheese": 1
+    "Vegan Meze" : 1
+  },
+  "order": {
+    "henrik" : "Goat Cheese salad"
+    "vas": "Vegan Meze",
+    "sakari": "Falafel, Feta & Eggplant",
+    "joel": "Falafel, Pesto & Goat Cheese"
+>>>>>>> origin/merge-4-4
   }
 }
-  
