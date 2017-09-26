@@ -22,9 +22,12 @@
     "Chicken meze"
   ],
   "totals": {
+    "FAFA's Meze": 1,
+    "Falafel, Pesto & Goat Cheese": 1    
   },
   "order": {
-    "german": "FAFA's Meze"
+    "german": "FAFA's Meze",
+    "holvi-anastasiia": "Falafel, Pesto & Goat Cheese"
   }
 }
   
