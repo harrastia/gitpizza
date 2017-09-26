@@ -22,9 +22,12 @@
     "Chicken meze"
   ],
   "totals": {
+    "Goat Cheese salad": 1,
+    "Fafa's Chicken": 1
   },
   "order": {
-    "pavel": "Fafa's Chicken"
+    "pavel": "Fafa's Chicken",
+    "murielle": "Goat Cheese salad"
   }
 }
   
