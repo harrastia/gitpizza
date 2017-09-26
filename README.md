@@ -7,7 +7,7 @@ Base repository for the git & pizza evening game
 Each participant creates a branch and
 1. Creates and checks out a local branch with name `<username>-gitpizza`
 1. Makes a commit adding theirselves to the `participants.json` file (1)
-1. Makes a commit with their pizza choice to `pizza.json` file. Use `order` property (2)
+1. Makes a commit with their pizza choice to `food.json` file. Use `order` property (2)
 1. Makes a commit with their drink choice to `drinks.json` file. Use `order` property (2)
 1. Pushes the branch to the repository
 
@@ -34,7 +34,7 @@ Merge participant choices collaboratively
 }
 ```
 
-(2) Format for `pizza.json` / `drinks.json` file:
+(2) Format for `food.json` / `drinks.json` file:
 ```
 {
   "choices":[
