@@ -10,7 +10,9 @@
     "tea"
   ],
   "totals": {
+      "lonkero": 1
   },
-  "order": {
+    "order": {
+	"hena": "lonkero"
   }
 }
