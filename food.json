@@ -24,11 +24,13 @@
   "totals": {
     "Goat Cheese salad": 1,
     "Fafa's Chicken": 2,
+    "Halloumi Salad": 1
   },
   "order": {
     "pavel": "Fafa's Chicken",
     "murielle": "Goat Cheese salad",
-    "gediminas": "Fafa's Chicken"
+    "gediminas": "Fafa's Chicken",
+    "carlos": "Halloumi Salad"
   }
 }
   
