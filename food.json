@@ -22,10 +22,14 @@
     "Chicken meze"
   ],
   "totals": {
+    "Kabab meze": 1,
+    "Chicken & Hummus": 1,
     "FAFA's Meze": 1,
     "Falafel, Pesto & Goat Cheese": 1    
   },
   "order": {
+    "javi": "Kabab meze",
+    "Jharyis": "Chicken & Hummus",
     "german": "FAFA's Meze",
     "holvi-anastasiia": "Falafel, Pesto & Goat Cheese"
   }

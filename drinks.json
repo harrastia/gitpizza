@@ -1,3 +1,4 @@
+
 {
   "choices":[
     "beer",
@@ -11,10 +12,14 @@
   ],
   "totals": {
     "sparkling water": 1,
-    "cider": 1
+    "cider": 1,
+    "beer": 2 
   },
   "order": {
     "german": "sparkling water",
-    "holvi-anastasiia": "cider"
+    "holvi-anastasiia": "cider",
+    "javi": "beer",
+    "Jharyis": "beer"
+
   }
 }
