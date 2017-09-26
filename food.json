@@ -22,9 +22,12 @@
     "Chicken meze"
   ],
   "totals": {
+    "Halloumi Salad": 1,
+    "Fafa's Chicken": 1
   },
   "order": {
-    "carlos": "Halloumi Salad"
+    "carlos": "Halloumi Salad",
+    "gediminas": "Fafa's Chicken"
   }
 }
   
