@@ -22,8 +22,10 @@
     "Chicken meze"
   ],
   "totals": {
+    "Goat Cheese salad" : 1
   },
   "order": {
-    "vas": "Vegan Meze"
+    "vas": "Vegan Meze",
+    "henrik" : "Goat Cheese salad"
   }
 }

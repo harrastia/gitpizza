@@ -10,8 +10,10 @@
     "tea"
   ],
   "totals": {
+    "beer" : 1
   },
   "order": {
-    "vas": "cider"
+    "vas": "cider",
+    "henrik" : "beer"
   }
 }
