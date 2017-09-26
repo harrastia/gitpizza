@@ -11,12 +11,16 @@
   ],
   "totals": {
     "beer": 3,
+    "cider": 3,
     "tea": 1
   },
   "order": {
     "pavel": "tea",
     "murielle": "beer",
     "gediminas": "beer",
-    "carlos": "beer"
+    "carlos": "beer",
+    "smaisidoro": "cider",
+    "petra": "cider",
+    "Muhis": "cider"
   }
 }

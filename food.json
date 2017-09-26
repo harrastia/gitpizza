@@ -24,13 +24,17 @@
   "totals": {
     "Goat Cheese salad": 1,
     "Fafa's Chicken": 2,
-    "Halloumi Salad": 1
+    "Halloumi Salad": 3,
+    "Falafel, Feta & Eggplant": 1,
   },
   "order": {
     "pavel": "Fafa's Chicken",
     "murielle": "Goat Cheese salad",
     "gediminas": "Fafa's Chicken",
-    "carlos": "Halloumi Salad"
+    "carlos": "Halloumi Salad",
+    "smaisidoro": "Halloumi Salad",
+    "petra": "Halloumi Salad",
+    "Muhis": "Falafel, Feta & Eggplant"
   }
 }
   
