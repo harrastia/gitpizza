@@ -10,8 +10,11 @@
     "tea"
   ],
   "totals": {
+      "lonkero": 1,
+      "cider": 1
   },
   "order": {
-    "smaisidoro": "cider",
+      "smaisidoro": "cider",
+      "hena": "lonkero"
   }
 }
