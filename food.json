@@ -22,10 +22,12 @@
     "Chicken meze"
   ],
   "totals": {
-      "Kabab meze": "1"
+      "Kabab meze": 1,
+      "Chicken & Hummus": 1
   },
   "order": {
-      "javi": "Kabab meze"
+      "javi": "Kabab meze",
+      "Jharyis": "Chicken & Hummus"
   }
 }
   
